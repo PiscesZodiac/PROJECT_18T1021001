@@ -1,0 +1,45 @@
+E:\NET Framework\Manager\Manager\bin\Debug\Manager.exe.config
+E:\NET Framework\Manager\Manager\bin\Debug\Manager.exe
+E:\NET Framework\Manager\Manager\bin\Debug\Manager.pdb
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmAccountProfile.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmAdmin.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmCategory.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmLogin.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmManager.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.frmProduct.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.Properties.Resources.resources
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.exe
+E:\NET Framework\Manager\Manager\obj\Debug\Manager.pdb
+E:\THI\Manager_THI-main\Manager\bin\Debug\Manager.exe.config
+E:\THI\Manager_THI-main\Manager\bin\Debug\Manager.exe
+E:\THI\Manager_THI-main\Manager\bin\Debug\Manager.pdb
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.frmAccountProfile.resources
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.frmAdmin.resources
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.frmCategory.resources
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.frmLogin.resources
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.frmManager.resources
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.frmProduct.resources
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.Properties.Resources.resources
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.exe
+E:\THI\Manager_THI-main\Manager\obj\Debug\Manager.pdb
+D:\BaitapC#\Manager_THI-main\Manager\bin\Debug\Manager.exe.config
+D:\BaitapC#\Manager_THI-main\Manager\bin\Debug\Manager.exe
+D:\BaitapC#\Manager_THI-main\Manager\bin\Debug\Manager.pdb
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.csproj.AssemblyReference.cache
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.frmAccountProfile.resources
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.frmAdmin.resources
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.frmCategory.resources
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.frmLogin.resources
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.frmManager.resources
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.frmProduct.resources
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.Properties.Resources.resources
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.csproj.GenerateResource.cache
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.csproj.CoreCompileInputs.cache
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.exe
+D:\BaitapC#\Manager_THI-main\Manager\obj\Debug\Manager.pdb
